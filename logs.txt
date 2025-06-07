@@ -1,0 +1,2 @@
+[2025-05-20T13:14:07.602070800] REGISTER> pati założył konto.
+[2025-05-20T13:14:41.450128400] LOGIN> pati się zalogował.
